@@ -4,13 +4,13 @@
 //     city: "San Jose",
 //     state: "California"
 // }
-//
+
 // const {city, state} = address;
 // console.log(`My city is ${city}`);
+// setBreak
 // console.log('My state is ' + state);
 
 // // Destructing array
-
 // let arr = ["aa","bb","cc","dd","ee"];
 // let [ first ] = arr;
 // console.log(first);
